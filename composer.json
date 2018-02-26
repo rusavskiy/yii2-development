@@ -1,0 +1,20 @@
+{
+    "name": "rusavskiy/yii2-development",
+    "description": "Yii 2 helpers class",
+    "keywords": [
+        "yii2",
+        "framework"
+    ],
+    "homepage": "https://github.com/rusavskiy/yii2-development",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
